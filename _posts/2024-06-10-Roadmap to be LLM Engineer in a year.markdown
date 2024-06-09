@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Roadmap to be LLM Engineer in a Year"
-date:   2024-06-10 01:35:19 +0600
+date:   2024-06-10 00:35:19 +0600
 categories: jekyll update
 ---
 Becoming a self-taught Large Language Model (LLM) engineer involves a structured approach, focusing on acquiring the necessary skills and knowledge in machine learning, natural language processing (NLP), and software engineering. Here's a comprehensive roadmap with a feasible timeframe and schedule.
