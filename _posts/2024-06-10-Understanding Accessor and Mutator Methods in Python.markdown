@@ -2,10 +2,9 @@
 layout: post
 title:  "Understanding Accessor and Mutator Methods in Python"
 date:   2024-06-10 04:10:19 +0600
+author: "Mamun"
 categories: python
 ---
-### Understanding Accessor and Mutator Methods in Python
-
 When working with objects in Python, you'll often encounter situations where you need to access or modify the internal data of an object. To achieve this, Python provides two types of methods: **accessors** and **mutators**. Let's explore what these methods are and how they differ, along with detailed explanations of the code examples provided.
 
 ## Accessor Methods (Read-Only)
