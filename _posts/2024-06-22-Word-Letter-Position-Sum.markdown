@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Word Letter Position Sum Function"
+date:   2024-06-10 04:10:19 +0600
+author: "Mamun"
+categories: python
+---
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
