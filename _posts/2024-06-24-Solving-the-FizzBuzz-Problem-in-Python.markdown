@@ -18,6 +18,7 @@ The FizzBuzz problem is a common coding challenge that asks you to print numbers
 
 For `n = 15`, the output should be:
 
+```python
 1
 2
 Fizz
@@ -27,8 +28,13 @@ Fizz
 7
 8
 Fizz
-Buzz Function in Python
-
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+```
 Let's dive into the code. Here is a simple Python function to solve the FizzBuzz problem:
 
 ```python
